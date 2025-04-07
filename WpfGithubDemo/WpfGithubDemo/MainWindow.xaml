@@ -7,7 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="buttonGomb" Content="Gomb" Width="200" Height="100" />
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="buttonGomb" Content="Gomb" Width="200" Height="30" Grid.Row="1" />
 
     </Grid>
 </Window>
