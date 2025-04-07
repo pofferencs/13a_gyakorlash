@@ -1,1 +1,1 @@
-# 13a_gyakorlas
+# 13a github gyakorlás
