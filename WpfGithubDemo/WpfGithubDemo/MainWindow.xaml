@@ -17,6 +17,9 @@
         <Button x:Name="buttonGombAlso" Grid.Row="2" Content="Gomb2" Width="200" Height="30" />
         
 
+        
+                  
+
 
     </Grid>
 </Window>
